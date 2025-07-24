@@ -1,0 +1,128 @@
+{
+    "Fields": [
+        {
+            "name": "lastname",
+            "alias": [
+                "lastname",
+                "last_name",
+                "lastName"
+            ]
+        },
+        {
+            "name": "firstname",
+            "alias": [
+                "firstname",
+                "first_name",
+                "firstName"
+            ]
+        },
+        {
+            "name": "workemail",
+            "alias": [
+                "email",
+                "work_email",
+                "workEmail"
+            ]
+        },
+       
+        {
+            "name": "companywebsite",
+            "alias": [
+                "website",
+                "webSite",
+                "web_site"
+            ]
+        },
+    
+        {
+            "name": "phonenumber",
+            "alias": [
+                "Phone",
+                "phone",
+                "mobile_number"
+            ]
+        }
+        ,    {
+            "name": "companyname",
+            "alias": [
+                "company",
+                "comPany",
+                "Compnay"
+            ]
+        },
+        {
+            "name": "jobtitle",
+            "alias":[
+                "job_title"
+            ]
+        },
+        {
+            "name": "annualonlinesales",
+            "alias":[
+                "Annual_Online_Sales",
+                "annual_revenue"
+            ]
+        },
+        {
+            "name": "privacyconsent",
+            "alias":[
+                "Privacy_consent"
+            ]
+        },
+        {
+            "name": "formterms",
+            "alias":[
+                "Form_terms",
+                "formterms"
+            ]
+        },
+        {
+            "name" :"comments",
+            "alias":["comments"]
+        },
+        {
+            "name": "countrycode",
+            "alias":[
+                "Country_Code"
+            ]
+        },
+        {
+            "name": "monthlyonlinesales",
+            "alias":[
+                "Monthly_Online_Sales"
+            ]
+        },
+        {
+            "name" : "industry",
+            "alias": ["industry"]
+        },
+        {
+            "name": "whatdoyouneedhelpwith",
+            "alias":["What_do_you_need_help_with"]
+        },
+        {
+            "name" : "doyoualreadyhaveapaypalbusinessaccount",
+            "alias" : ["Do_you_already_have_a_PayPal_Business_account"]
+        },
+        {
+            "name": "country",
+            "alias": ["country"]
+        },
+        {
+            "name": "totalonlinevolume",
+            "alias": ["Estimate_of_Total_Online_Volume","Monthly_Online_Sales","Annual_Revenue"]
+        },
+        {
+            "name": "technologyquestion",
+            "alias":["Technology_Question_1"]
+        },
+        {
+            "name": "leadershipandsoftskills",
+            "alias":["Leadership_and_Soft_Skills"]
+        },
+        {
+            "name": "whydoyouwanttopursueacareerintechnology",
+            "alias":["Why_do_you_want_to_pursue_a_career_in_technology"]
+        }
+    ]
+}
